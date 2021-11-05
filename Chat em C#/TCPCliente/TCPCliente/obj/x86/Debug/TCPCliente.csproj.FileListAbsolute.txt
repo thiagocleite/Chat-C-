@@ -1,0 +1,8 @@
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\bin\Debug\TCPCliente.exe
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\bin\Debug\TCPCliente.pdb
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\obj\x86\Debug\TCPCliente.Properties.Resources.resources
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\obj\x86\Debug\TCPCliente.exe
+C:\Users\Thiago\Desktop\TCPCliente\TCPCliente\obj\x86\Debug\TCPCliente.pdb
